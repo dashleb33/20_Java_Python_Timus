@@ -1,0 +1,2 @@
+list_a_b = input().split()
+print(int(list_a_b[0]) + int(list_a_b[1]))
